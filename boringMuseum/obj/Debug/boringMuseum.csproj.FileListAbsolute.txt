@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\boringMuseum\bin\Debug\boringMuseum.exe.config
+C:\Users\hcrai\Programming\codingChallenges\boringMuseum\bin\Debug\boringMuseum.exe
+C:\Users\hcrai\Programming\codingChallenges\boringMuseum\bin\Debug\boringMuseum.pdb
+C:\Users\hcrai\Programming\codingChallenges\boringMuseum\obj\Debug\boringMuseum.csprojAssemblyReference.cache
+C:\Users\hcrai\Programming\codingChallenges\boringMuseum\obj\Debug\boringMuseum.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\boringMuseum\obj\Debug\boringMuseum.exe
+C:\Users\hcrai\Programming\codingChallenges\boringMuseum\obj\Debug\boringMuseum.pdb

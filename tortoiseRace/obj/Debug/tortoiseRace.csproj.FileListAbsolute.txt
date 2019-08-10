@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\tortoiseRace\bin\Debug\tortoiseRace.exe.config
+C:\Users\hcrai\Programming\codingChallenges\tortoiseRace\bin\Debug\tortoiseRace.exe
+C:\Users\hcrai\Programming\codingChallenges\tortoiseRace\bin\Debug\tortoiseRace.pdb
+C:\Users\hcrai\Programming\codingChallenges\tortoiseRace\obj\Debug\tortoiseRace.csprojAssemblyReference.cache
+C:\Users\hcrai\Programming\codingChallenges\tortoiseRace\obj\Debug\tortoiseRace.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\tortoiseRace\obj\Debug\tortoiseRace.exe
+C:\Users\hcrai\Programming\codingChallenges\tortoiseRace\obj\Debug\tortoiseRace.pdb

@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\sumInterest\bin\Debug\sumInterest.exe.config
+C:\Users\hcrai\Programming\codingChallenges\sumInterest\bin\Debug\sumInterest.exe
+C:\Users\hcrai\Programming\codingChallenges\sumInterest\bin\Debug\sumInterest.pdb
+C:\Users\hcrai\Programming\codingChallenges\sumInterest\obj\Debug\sumInterest.csprojAssemblyReference.cache
+C:\Users\hcrai\Programming\codingChallenges\sumInterest\obj\Debug\sumInterest.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\sumInterest\obj\Debug\sumInterest.exe
+C:\Users\hcrai\Programming\codingChallenges\sumInterest\obj\Debug\sumInterest.pdb
