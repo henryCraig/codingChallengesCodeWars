@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\humanReadableTime\bin\Debug\humanReadableTime.exe.config
+C:\Users\hcrai\Programming\codingChallenges\humanReadableTime\bin\Debug\humanReadableTime.exe
+C:\Users\hcrai\Programming\codingChallenges\humanReadableTime\bin\Debug\humanReadableTime.pdb
+C:\Users\hcrai\Programming\codingChallenges\humanReadableTime\obj\Debug\humanReadableTime.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\humanReadableTime\obj\Debug\humanReadableTime.exe
+C:\Users\hcrai\Programming\codingChallenges\humanReadableTime\obj\Debug\humanReadableTime.pdb
+C:\Users\hcrai\Programming\codingChallenges\humanReadableTime\obj\Debug\humanReadableTime.csprojAssemblyReference.cache

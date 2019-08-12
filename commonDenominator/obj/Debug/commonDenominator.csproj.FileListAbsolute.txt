@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\commonDenominator\bin\Debug\commonDenominator.exe.config
+C:\Users\hcrai\Programming\codingChallenges\commonDenominator\bin\Debug\commonDenominator.exe
+C:\Users\hcrai\Programming\codingChallenges\commonDenominator\bin\Debug\commonDenominator.pdb
+C:\Users\hcrai\Programming\codingChallenges\commonDenominator\obj\Debug\commonDenominator.csprojAssemblyReference.cache
+C:\Users\hcrai\Programming\codingChallenges\commonDenominator\obj\Debug\commonDenominator.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\commonDenominator\obj\Debug\commonDenominator.exe
+C:\Users\hcrai\Programming\codingChallenges\commonDenominator\obj\Debug\commonDenominator.pdb

@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\peopleOnTheBus\bin\Debug\peopleOnTheBus.exe.config
+C:\Users\hcrai\Programming\codingChallenges\peopleOnTheBus\bin\Debug\peopleOnTheBus.exe
+C:\Users\hcrai\Programming\codingChallenges\peopleOnTheBus\bin\Debug\peopleOnTheBus.pdb
+C:\Users\hcrai\Programming\codingChallenges\peopleOnTheBus\obj\Debug\peopleOnTheBus.csprojAssemblyReference.cache
+C:\Users\hcrai\Programming\codingChallenges\peopleOnTheBus\obj\Debug\peopleOnTheBus.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\peopleOnTheBus\obj\Debug\peopleOnTheBus.exe
+C:\Users\hcrai\Programming\codingChallenges\peopleOnTheBus\obj\Debug\peopleOnTheBus.pdb

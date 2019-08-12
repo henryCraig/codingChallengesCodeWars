@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\printerError\bin\Debug\printerError.exe.config
+C:\Users\hcrai\Programming\codingChallenges\printerError\bin\Debug\printerError.exe
+C:\Users\hcrai\Programming\codingChallenges\printerError\bin\Debug\printerError.pdb
+C:\Users\hcrai\Programming\codingChallenges\printerError\obj\Debug\printerError.csprojAssemblyReference.cache
+C:\Users\hcrai\Programming\codingChallenges\printerError\obj\Debug\printerError.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\printerError\obj\Debug\printerError.exe
+C:\Users\hcrai\Programming\codingChallenges\printerError\obj\Debug\printerError.pdb

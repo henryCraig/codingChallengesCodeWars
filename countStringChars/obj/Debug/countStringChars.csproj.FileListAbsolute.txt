@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\countStringChars\bin\Debug\countStringChars.exe.config
+C:\Users\hcrai\Programming\codingChallenges\countStringChars\bin\Debug\countStringChars.exe
+C:\Users\hcrai\Programming\codingChallenges\countStringChars\bin\Debug\countStringChars.pdb
+C:\Users\hcrai\Programming\codingChallenges\countStringChars\obj\Debug\countStringChars.csprojAssemblyReference.cache
+C:\Users\hcrai\Programming\codingChallenges\countStringChars\obj\Debug\countStringChars.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\countStringChars\obj\Debug\countStringChars.exe
+C:\Users\hcrai\Programming\codingChallenges\countStringChars\obj\Debug\countStringChars.pdb

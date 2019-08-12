@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\sumNums\bin\Debug\sumNums.exe.config
+C:\Users\hcrai\Programming\codingChallenges\sumNums\bin\Debug\sumNums.exe
+C:\Users\hcrai\Programming\codingChallenges\sumNums\bin\Debug\sumNums.pdb
+C:\Users\hcrai\Programming\codingChallenges\sumNums\obj\Debug\sumNums.csprojAssemblyReference.cache
+C:\Users\hcrai\Programming\codingChallenges\sumNums\obj\Debug\sumNums.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\sumNums\obj\Debug\sumNums.exe
+C:\Users\hcrai\Programming\codingChallenges\sumNums\obj\Debug\sumNums.pdb
