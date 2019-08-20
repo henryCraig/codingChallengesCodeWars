@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\fractionToMixedNumber\bin\Debug\fractionToMixedNumber.exe.config
+C:\Users\hcrai\Programming\codingChallenges\fractionToMixedNumber\bin\Debug\fractionToMixedNumber.exe
+C:\Users\hcrai\Programming\codingChallenges\fractionToMixedNumber\bin\Debug\fractionToMixedNumber.pdb
+C:\Users\hcrai\Programming\codingChallenges\fractionToMixedNumber\obj\Debug\fractionToMixedNumber.csprojAssemblyReference.cache
+C:\Users\hcrai\Programming\codingChallenges\fractionToMixedNumber\obj\Debug\fractionToMixedNumber.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\fractionToMixedNumber\obj\Debug\fractionToMixedNumber.exe
+C:\Users\hcrai\Programming\codingChallenges\fractionToMixedNumber\obj\Debug\fractionToMixedNumber.pdb
