@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\theWave\bin\Debug\theWave.exe.config
+C:\Users\hcrai\Programming\codingChallenges\theWave\bin\Debug\theWave.exe
+C:\Users\hcrai\Programming\codingChallenges\theWave\bin\Debug\theWave.pdb
+C:\Users\hcrai\Programming\codingChallenges\theWave\obj\Debug\theWave.csprojAssemblyReference.cache
+C:\Users\hcrai\Programming\codingChallenges\theWave\obj\Debug\theWave.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\theWave\obj\Debug\theWave.exe
+C:\Users\hcrai\Programming\codingChallenges\theWave\obj\Debug\theWave.pdb
