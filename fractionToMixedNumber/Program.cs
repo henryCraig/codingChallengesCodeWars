@@ -18,15 +18,37 @@ namespace fractionToMixedNumber
         //Input: 6/3, expedted result: 2.
         //Input: 4/6, expected result: 2/3.
         //Input: 0/18891, expected result: 0.
-        //Input: -10/7, expected result: -1 
+        //Input: -10/7, expected result: -1 3/7
 
         public static string MixedFraction(string s)
         {
+            string[] factors = s.Split('/');
+            int numerator = Int32.Parse(factors[0]);
+            int denominator = Int32.Parse(factors[1]);
+            Console.WriteLine("numerator: " + numerator);
+            Console.WriteLine("Denominator: " + denominator);
 
 
-            Console.WriteLine(5 * Char.GetNumericValue(s[0]));
-            Console.WriteLine();
+            int newNumer = denominator;
+            int iter = 0;
+            while (newNumer < numerator)
+            {
+                newNumer += denominator;
+                iter++;
+            }
+
+            Console.WriteLine("newNumer: " + newNumer);
+            Console.WriteLine("iter: " + iter);
+
+            Console.WriteLine("newNumer - numerator: " + Math.Abs((newNumer - numerator) - denominator));
+
+
+
+            //Console.WriteLine(Int32.Parse(factors[0]) / Int32.Parse(factors[1]));
+            //Console.WriteLine(Int32.Parse(factors[0]) % Int32.Parse(factors[1]));
+
             return s;
         }
+
     }
 }

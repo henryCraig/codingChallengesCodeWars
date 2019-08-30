@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\rainfall\bin\Debug\rainfall.exe.config
+C:\Users\hcrai\Programming\codingChallenges\rainfall\bin\Debug\rainfall.exe
+C:\Users\hcrai\Programming\codingChallenges\rainfall\bin\Debug\rainfall.pdb
+C:\Users\hcrai\Programming\codingChallenges\rainfall\obj\Debug\rainfall.csprojAssemblyReference.cache
+C:\Users\hcrai\Programming\codingChallenges\rainfall\obj\Debug\rainfall.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\rainfall\obj\Debug\rainfall.exe
+C:\Users\hcrai\Programming\codingChallenges\rainfall\obj\Debug\rainfall.pdb
