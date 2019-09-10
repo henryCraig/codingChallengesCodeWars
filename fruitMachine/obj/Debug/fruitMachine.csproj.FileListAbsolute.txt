@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\fruitMachine\bin\Debug\fruitMachine.exe.config
+C:\Users\hcrai\Programming\codingChallenges\fruitMachine\bin\Debug\fruitMachine.exe
+C:\Users\hcrai\Programming\codingChallenges\fruitMachine\bin\Debug\fruitMachine.pdb
+C:\Users\hcrai\Programming\codingChallenges\fruitMachine\obj\Debug\fruitMachine.csprojAssemblyReference.cache
+C:\Users\hcrai\Programming\codingChallenges\fruitMachine\obj\Debug\fruitMachine.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\fruitMachine\obj\Debug\fruitMachine.exe
+C:\Users\hcrai\Programming\codingChallenges\fruitMachine\obj\Debug\fruitMachine.pdb

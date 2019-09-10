@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\equalArraySides\bin\Debug\equalArraySides.exe.config
+C:\Users\hcrai\Programming\codingChallenges\equalArraySides\bin\Debug\equalArraySides.exe
+C:\Users\hcrai\Programming\codingChallenges\equalArraySides\bin\Debug\equalArraySides.pdb
+C:\Users\hcrai\Programming\codingChallenges\equalArraySides\obj\Debug\equalArraySides.csprojAssemblyReference.cache
+C:\Users\hcrai\Programming\codingChallenges\equalArraySides\obj\Debug\equalArraySides.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\equalArraySides\obj\Debug\equalArraySides.exe
+C:\Users\hcrai\Programming\codingChallenges\equalArraySides\obj\Debug\equalArraySides.pdb
