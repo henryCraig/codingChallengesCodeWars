@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\highestScoringWord\obj\Debug\highestScoringWord.csprojAssemblyReference.cache
+C:\Users\hcrai\Programming\codingChallenges\highestScoringWord\obj\Debug\highestScoringWord.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\highestScoringWord\bin\Debug\highestScoringWord.exe.config
+C:\Users\hcrai\Programming\codingChallenges\highestScoringWord\bin\Debug\highestScoringWord.exe
+C:\Users\hcrai\Programming\codingChallenges\highestScoringWord\bin\Debug\highestScoringWord.pdb
+C:\Users\hcrai\Programming\codingChallenges\highestScoringWord\obj\Debug\highestScoringWord.exe
+C:\Users\hcrai\Programming\codingChallenges\highestScoringWord\obj\Debug\highestScoringWord.pdb
