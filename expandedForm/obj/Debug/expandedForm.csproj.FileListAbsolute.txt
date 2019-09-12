@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\expandedForm\bin\Debug\expandedForm.exe.config
+C:\Users\hcrai\Programming\codingChallenges\expandedForm\bin\Debug\expandedForm.exe
+C:\Users\hcrai\Programming\codingChallenges\expandedForm\bin\Debug\expandedForm.pdb
+C:\Users\hcrai\Programming\codingChallenges\expandedForm\obj\Debug\expandedForm.csprojAssemblyReference.cache
+C:\Users\hcrai\Programming\codingChallenges\expandedForm\obj\Debug\expandedForm.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\expandedForm\obj\Debug\expandedForm.exe
+C:\Users\hcrai\Programming\codingChallenges\expandedForm\obj\Debug\expandedForm.pdb
