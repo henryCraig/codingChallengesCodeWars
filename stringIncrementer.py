@@ -1,24 +1,16 @@
+#https://www.codewars.com/kata/string-incrementer/train/python
+
 def increment_string(strng):
 
     for i in range(len(strng)):
+        if strng[i:].isdigit():
+            originalNumLength = len(strng[i:len(strng)])
+            newNum = str(int(strng[i:len(strng)])+1)
+            while len(newNum) < originalNumLength:
+                newNum = ("0" + newNum)
 
-        print(i)
-        print(strng[i])
-        print()
-
-        if strng[i].isdigit():
-            if int(strng[i]) > 0:
-                return(strng[:i] + str(int(strng[i:len(strng)])+1))
-
-            elif i == len(strng):
-                return(strng[:i] + str(int(strng[i])+1))
+            return(strng[:i] + newNum)
 
     return strng + "1"
 
-
-print(increment_string("foobar00"))
-
-
-
-#Test.assert_equals(increment_string("foo"), "foo1")
-#Test.assert_equals(increment_string("foobar001"), "foobar002")
+print(increment_string("foo"))
