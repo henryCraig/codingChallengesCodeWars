@@ -1,0 +1,7 @@
+C:\Users\hcrai\Programming\codingChallenges\helpTheBookSeller\bin\Debug\helpTheBookSeller.exe.config
+C:\Users\hcrai\Programming\codingChallenges\helpTheBookSeller\bin\Debug\helpTheBookSeller.exe
+C:\Users\hcrai\Programming\codingChallenges\helpTheBookSeller\bin\Debug\helpTheBookSeller.pdb
+C:\Users\hcrai\Programming\codingChallenges\helpTheBookSeller\obj\Debug\helpTheBookSeller.csprojAssemblyReference.cache
+C:\Users\hcrai\Programming\codingChallenges\helpTheBookSeller\obj\Debug\helpTheBookSeller.csproj.CoreCompileInputs.cache
+C:\Users\hcrai\Programming\codingChallenges\helpTheBookSeller\obj\Debug\helpTheBookSeller.exe
+C:\Users\hcrai\Programming\codingChallenges\helpTheBookSeller\obj\Debug\helpTheBookSeller.pdb
